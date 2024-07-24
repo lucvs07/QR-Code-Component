@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Go to Solution](https://www.frontendmentor.io/solutions/qr-code-component---mobile-first-QVe0Lhz-Im)
+- Live Site URL: [Go to preview the site](https://qrcode-lucvs.netlify.app/)
 
 ## My process
 
